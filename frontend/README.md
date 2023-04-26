@@ -2,6 +2,25 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## How to Run
+
+create a account in mongoDB and create a cluster [link](https://www.mongodb.com/).
+
+<img src="./readmepics/ss1.png"></img>
+<img src="./readmepics/ss2.png" height="600px"></img>
+<img src="./readmepics/ss3.png" height="600px"></img>
+
+create a .env file under backend folder./
+
+<img src="./readmepics/ss4.png"></img>
+
+add the url and port in .env file./
+
+<img src="./readmepics/ss5.png"></img>
+
+if you get errors like PORT 5000 is already in use <br>
+Try changing PORT in .env and ./frontend/src/context/globalContext.js files
+
 ## Available Scripts
 
 In the project directory, you can run:
