@@ -7,8 +7,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 create a account in mongoDB and create a cluster [link](https://www.mongodb.com/).
 
 <img src="./readmepics/ss1.png"></img>
-<img src="./readmepics/ss2.png" height="100px"></img>
-<img src="./readmepics/ss3.png" height="100px"></img>
+<img src="./readmepics/ss2.png" height="600px"></img>
+<img src="./readmepics/ss3.png" height="600px"></img>
 
 create a .env file under backend folder./
 
