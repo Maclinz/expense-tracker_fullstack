@@ -18,7 +18,7 @@ add the url and port in .env file./
 
 <img src="./readmepics/ss5.png"></img>
 
-if you get errors like PORT 5000 is already in user <br>
+if you get errors like PORT 5000 is already in use <br>
 Try changing PORT in .env and ./frontend/src/context/globalContext.js files
 
 ## Available Scripts
