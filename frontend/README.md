@@ -9,9 +9,13 @@ create a account in mongoDB and create a cluster [link](https://www.mongodb.com/
 <img src="./readmepics/ss1.png"></img>
 <img src="./readmepics/ss2.png"></img>
 <img src="./readmepics/ss3.png"></img>
+
 create a .env file under backend folder./
+
 <img src="./readmepics/ss4.png"></img>
+
 add the url and port in .env file./
+
 <img src="./readmepics/ss5.png"></img>
 
 if you get errors like PORT 5000 is already in user <br>
